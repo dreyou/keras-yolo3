@@ -7,3 +7,7 @@
 *.mp4
 *.DS_Store
 *.bak
+settings.json
+*.pkl
+.idea*
+events.out*
